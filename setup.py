@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(name='gugua_bot',
-      version='1.0',
+      version='1.1',
       author='Sclock',
       author_email='1342810270@qq.com',
       url='https://github.com/Sclock/gugua',
