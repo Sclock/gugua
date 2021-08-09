@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.py
+src/gugua_bot/__init__.py
+src/gugua_bot/gugua.py
+src/gugua_bot.egg-info/PKG-INFO
+src/gugua_bot.egg-info/SOURCES.txt
+src/gugua_bot.egg-info/dependency_links.txt
+src/gugua_bot.egg-info/entry_points.txt
+src/gugua_bot.egg-info/requires.txt
+src/gugua_bot.egg-info/top_level.txt

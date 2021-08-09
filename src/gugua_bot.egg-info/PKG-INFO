@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: gugua-bot
+Version: 1.0
+Summary: 适用于nb的孤寡机器人插件
+Home-page: https://github.com/Sclock/gugua
+Author: Sclock
+Author-email: 1342810270@qq.com
+License: UNKNOWN
+Description: <div align="center">
+        
+        # 孤寡机器人,让你的孤寡朋友露出阳光的笑容
+        
+        </div>
+        
+        ## 使用方式
+        
+        - 先创建群聊，可以起一个好听一点的名字例如
+        
+        ![avatar](/图/名字.png)
+        
+        - 然后把你的机器人拉进来，并给一个管理
+        
+        ![avatar](/图/拉人.png)
+        
+        - 最后,邀请受害人加入本群即可(小于 50 不需要同意哦！)
+        
+        ![avatar](/图/被迫害.jpg)
+        
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
