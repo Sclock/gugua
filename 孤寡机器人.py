@@ -13,6 +13,7 @@ async def message_discernment_handle(bot: Bot, event: Event):
         new_id = event.user_id
         print(f'检测到受害者:{new_id}')
         new_group = event.group_id
+        sleep(3)
 
         await gugua.send('您好我是您朋友给您点的孤寡青蛙')
         sleep(0.5)
