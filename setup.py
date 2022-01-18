@@ -15,5 +15,5 @@ setup(name='gugua_bot',
       long_description=long_description,
       package_dir={"": "src"},
       packages=setuptools.find_packages(where="src"),
-      install_requires=['nonebot', 'asyncio'],
+      install_requires=['nonebot2', 'asyncio'],
       entry_points={'console_scripts': []})
